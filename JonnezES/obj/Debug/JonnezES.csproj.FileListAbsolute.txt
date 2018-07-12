@@ -1,0 +1,7 @@
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Debug\JonnezES.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Debug\JonnezES.pdb
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Debug\PlayMaker.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\obj\Debug\JonnezES.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\obj\Debug\JonnezES.pdb
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Debug\Assembly-CSharp.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\obj\Debug\JonnezES.csprojResolveAssemblyReference.cache

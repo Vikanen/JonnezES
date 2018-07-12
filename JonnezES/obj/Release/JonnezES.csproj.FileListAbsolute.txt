@@ -1,0 +1,4 @@
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Release\JonnezES.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\bin\Release\PlayMaker.dll
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\obj\Release\JonnezES.csprojResolveAssemblyReference.cache
+C:\Users\Janne\Dropbox\JonnezES\JonnezES\JonnezES\obj\Release\JonnezES.dll
